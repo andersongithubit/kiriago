@@ -1,0 +1,40 @@
+body{
+<link rel="style" type="text/css" href="style.css">
+	font-family: arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+header{
+
+	background-color: yellowgreen;
+	padding: 20px;
+	text-align: center;
+}
+h1{
+	font-size: 2em;
+	margin-bottom:0;
+	background: gold; 
+}
+main{
+	padding: 20px;
+}
+section{
+	margin-bottom: 20px;
+}
+h2{
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
+ul{
+	list-style: none;
+	padding: 0;
+}
+li{
+	margin-bottom: 5px;
+}
+footer{
+	background-color: green;
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
